@@ -1,0 +1,7 @@
+{
+   "item": "mod_id:item_id",
+   "description": "This is an example description! Put some info about the fish here, or leave it blank.",
+   "page": "example",
+   "location": "any",
+   "climate": "any"
+}
